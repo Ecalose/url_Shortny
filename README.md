@@ -7,7 +7,7 @@
 
 ### 资源站拿去发布的请留个链多谢！
 
-### 演示站：https://sssn.top/
+### 演示站：https://url.sssn.top/
 
 <img src="http://img.atusu.cn/images/2020/08/01/QQ20200801121812.png" alt="QQ20200801121812.png" border="0">
 
@@ -26,7 +26,7 @@
 
 链接统计
 
-QQ内自动跳转至浏览器,微信跳转至浏览器（默认不带需要本功能需在 https://sssn.top/WoEsz 下载）
+QQ内自动跳转至浏览器,微信跳转至浏览器（默认不带需要本功能需在 https://url.sssn.top/WoEsz 下载）
 
 支持微信跳转演示站：http://wx.itusu.cn/
 
