@@ -55,7 +55,3 @@
         alert("Here I am!")
     }
 </script>
-
-<?php
-            include "zxkf.php";
-?>
