@@ -28,7 +28,7 @@ $ads_info = $db->fetch_array($ads);
         <!-- Custom CSS for the Template -->
         <link href="css/style.css" rel="stylesheet">
 
-        <link href="https://fonts.useso.com/css?family=Fjalla+One" rel="stylesheet">
+        <!-- <link href="https://fonts.useso.com/css?family=Fjalla+One" rel="stylesheet">-->
         <link rel="stylesheet" href="css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
         <style>
             .nav-tabs > li, .nav-pills > li {
