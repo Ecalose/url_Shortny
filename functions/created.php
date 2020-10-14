@@ -17,7 +17,7 @@
         <!-- Custom CSS for the Template -->
         <link href="css/style.css" rel="stylesheet">
 
-        <link href="https://88zn.top/dl/index.php?https://fonts.googleapis.com/css?family=Fjalla+One" rel="stylesheet">
+       <!-- <link href="https://fonts.googleapis.com/css?family=Fjalla+One" rel="stylesheet"> -->
         <link rel="stylesheet" href="./css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
         <style>
             a { color: inherit; }
@@ -68,7 +68,7 @@
                             <h3 class="panel-inverted" style="font-weight:bolder;color: #fff;">短链二维码</h3>
                         </div>
                         <div class="panel-body">
-                            <img src="qr/api.php?text=<?php echo $created_link; ?>&size=180">
+                            <img src="https://api.atusu.cn/qr/api.php?text=<?php echo $created_link; ?>&size=180">
                         </div>
                     </div>
                 </div>
