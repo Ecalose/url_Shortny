@@ -84,7 +84,7 @@ if ($url == '') {
                     <div class="row">
                         <div class="col-lg-5 QR colored rounded flex-col">
                             <div class="col-lg-12"><h3 class="text-center"> 短链统计二维码</h3></div>
-                            <div class="col-lg-12"><img alt="API接口错误请联系管理员！" src="qr/api.php?text=<?php echo $created_link; ?>&size=200 " class="size center-block"/></div>
+                            <div class="col-lg-12"><img alt="API接口错误请联系管理员！" src="https://api.atusu.cn/qr/api.php?text=<?php echo $created_link; ?>&size=200 " class="size center-block"/></div>
                             <hr>
                             <div class="col-lg-12  text-center">
                                 <a target="_blank"  href="http://www.facebook.com/sharer.php?u=<?php echo $created_link; ?>"><i class="fab fa-facebook-f fa-3x fb anim "></i></a>
