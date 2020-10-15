@@ -68,7 +68,7 @@
                             <h3 class="panel-inverted" style="font-weight:bolder;color: #fff;">短链二维码</h3>
                         </div>
                         <div class="panel-body">
-                            <img src="https://api.atusu.cn/qr/api.php?text=<?php echo $created_link; ?>&size=180">
+                            <img src="https://api.atusu.cn/qr/api.php?text=<?php echo $created_link; ?>&size=200">
                         </div>
                     </div>
                 </div>
