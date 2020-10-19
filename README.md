@@ -7,7 +7,7 @@
 
 ### 资源站拿去发布的请留个链多谢！
 
-### 演示站：https://url.sssn.top/
+### 演示站：http://os.itusu.cn/
 
 <img src="http://img.atusu.cn/images/2020/08/01/QQ20200801121812.png" alt="QQ20200801121812.png" border="0">
 
