@@ -3,9 +3,8 @@
 
 二维码API，QQ内部自动替换至浏览器打开，自定义广告
 
-基于Shortny v2.0.1改版
-
-### 资源站拿去发布的请留个链多谢！
+基于Shortny v2.0.1修改而来,如条件允许请购买正版使用谢谢：https://codecanyon.net/item/shortny-the-url-shortener/8173515
+ 
 
 ### 演示站：http://os.itusu.cn/
 
