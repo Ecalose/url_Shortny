@@ -8,7 +8,7 @@
 如条件允许请购买正版使用谢谢：https://codecanyon.net/item/shortny-the-url-shortener/8173515
  
 
-### 演示站：http://os.itusu.cn/
+### 演示站：http://os.soxo.top/
 
 <img src="http://img.atusu.cn/images/2020/08/01/QQ20200801121812.png" alt="QQ20200801121812.png" border="0">
 
@@ -29,7 +29,7 @@
 
 QQ内自动跳转至浏览器,微信跳转至浏览器（默认不带需要本功能需在 https://url.sssn.top/WoEsz 下载）
 
-支持微信跳转演示站：http://wx.itusu.cn/
+支持微信跳转演示站：http://os.soxo.top/
 
 2020/08/01更新，已支持QQ微信同时跳转，本程序不放出，需到上方链接获取，如不会搭建的可联系为您搭建
 
